@@ -1,0 +1,5 @@
+CREATE TABLE "Team" (
+  "id" INTEGER NOT NULL PRIMARY KEY,
+  "name" TEXT NOT NULL,
+  "league" TEXT NOT NULL
+)
