@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Premier League", "country": "England", "rank": 1 },
+  { "id": 2, "name": "Championship", "country": "England", "rank": 2 },
+  { "id": 3, "name": "EFL League 1", "country": "England", "rank": 3 },
+  { "id": 4, "name": "Categoría Primera A", "country": "Colombia", "rank": 1 },
+  { "id": 5, "name": "La Liga", "country": "Spain", "rank": 1 }
+]

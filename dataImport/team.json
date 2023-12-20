@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Manchester United", "league": "Premier League" },
+  { "id": 2, "name": "Newcastle United", "league": "Premier League" },
+  { "id": 3, "name": "Brentford", "league": "Championship" },
+  { "id": 4, "name": "Oxford United", "league": "EFL League 1" },
+  { "id": 5, "name": "Atletico Nacional", "league": "Categoría Primera A" },
+  { "id": 6, "name": "Millonarios", "league": "Categoría Primera A" },
+  { "id": 7, "name": "Real Madrid", "league": "La Liga" },
+  { "id": 8, "name": "Barcelona", "league": "La Liga" }
+]

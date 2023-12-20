@@ -1,0 +1,6 @@
+CREATE TABLE "League" (
+  "id" INTEGER NOT NULL PRIMARY KEY,
+  "name" TEXT NOT NULL,
+  "country" TEXT NOT NULL,
+  "rank" INTEGER NOT NULL
+)
